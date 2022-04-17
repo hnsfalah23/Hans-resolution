@@ -1,0 +1,3 @@
+HANS RESOLUTION 
+- learn more about html, css
+- learn more about javascript
