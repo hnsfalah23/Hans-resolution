@@ -1,3 +1,5 @@
 HANS RESOLUTION 
 - learn more about html, css
 - learn more about javascript
+- create a portfolio
+- collaboration with more experts
