@@ -1,5 +1,5 @@
 HANS RESOLUTION 
 - learn more about html, css
-- learn bootstrap
+- learn more about bootstrap
 - create a portfolio
 - collaboration with more experts
